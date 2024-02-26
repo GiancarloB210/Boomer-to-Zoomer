@@ -1,6 +1,6 @@
 # From Boomer-to-Zoomer using a Double Diamond Design
 
-By Steven Pong and Giancarlo Biasiucci 
+By Steven Pong (21343696) and Giancarlo Biasiucci (40180066)
 
 > [!NOTE]
 > The term Boomer refers to individuals aged 60 years old or older and Zoomer refers to individuals aged 30 and under. For the purpose of simplifying the age groups, a Zoomer would also include Millenials, Gen X and Gen Alpha.
